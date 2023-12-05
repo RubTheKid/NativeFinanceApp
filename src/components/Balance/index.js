@@ -27,7 +27,7 @@ export default function Balance({saldo, gastos}) {
 
 const styles = StyleSheet.create({
     container:{
-        backgroundColor:'#fff',
+        backgroundColor:'#fff', 
         flexDirection: 'row',
         justifyContent: 'space-between',
         paddingStart: 18,
